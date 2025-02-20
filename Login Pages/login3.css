@@ -1,0 +1,96 @@
+#parent{width: 936px;
+height: 520px;
+border: 1px solid black;
+border-radius: 10px;
+margin: 40px auto;
+}
+.rrr{border: 1px solid rgb(2, 2, 57);
+height: 41px;
+width: 40px;
+margin-top: -438px;
+margin-left: 370px;
+background-image: url('https://cdn.vectorstock.com/i/2000v/65/26/letter-h-logo-at-blue-water-splash-background-vector-27436526.webp');
+background-size: cover;}
+#child{border: 1px solid rgb(2, 2, 57);
+border-radius: 10px;
+margin-right: 554px;
+height: 518px;
+border-top-right-radius: initial;
+border-bottom-right-radius: initial;
+background-color: rgb(2, 2, 57);}
+#ww{color: white;
+margin-left: 137px;
+margin-top: 122px;}
+#a{color: white;
+    margin-left: 98px;
+    margin-top: 05px;}
+#b{border: 1px solid rgb(27, 27, 243);
+margin: 10px;
+border-radius: 5px;
+color: white;
+text-align: center;
+margin-top: 28px;
+margin-left: 98px;
+margin-right: 104px;
+background-color: rgb(27, 27, 243);}
+#c{border: 1px solid rgb(64, 134, 239);
+    margin: 10px;
+    margin-left: 98px;
+margin-right: 104px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+background-color: rgb(64, 134, 239);}
+#d{border: 1px solid rgb(235, 71, 71);
+    margin: 10px;
+    margin-left: 98px;
+margin-right: 104px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+background-color: rgb(235, 71, 71);}
+    #child2{width: 400px;
+    height: 520px;
+border: 1px solid white;
+border-radius: 10px;}
+#child2{width:554px;
+height:519px;
+border: 1px solid white;
+border-top-left-radius: initial;
+border-bottom-left-radius: initial;
+margin-left: 384px;
+margin-top: -520px;
+}
+
+/* child2 */
+.mann{text-align: center;
+margin-top: 48px;}
+.mann2{text-align: center;
+margin-top: -10px;}
+input[type=text]{margin: 10px;
+width: 361px;
+height: 40px;
+margin-left: 82px;
+margin-top: 30px;
+padding-left: 15px;}
+input[type=password]{margin: 10px;
+    width: 361px;
+    height: 40px;
+    margin-left: 82px;
+    margin-top: 20px;
+padding-left: 15px;}
+input[type=checkbox]{margin-left: 107px;
+margin-top: 22px;}
+#id1{display: inline-block;}
+#id2{display: inline-block;
+    margin-left: -2px;
+    color: rgb(26, 127, 234);
+margin-left: 125px;}
+#border{border: 1px solid blue;
+background-color: blue;
+color: white;
+margin-top: 36px;
+width: 381px;
+text-align: center;
+font-weight: bold;
+margin-left: 83px;}

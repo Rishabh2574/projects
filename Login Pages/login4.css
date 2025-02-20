@@ -1,0 +1,105 @@
+body{background-image: url('https://img.freepik.com/free-vector/gradient-beautiful-landscape_23-2149122377.jpg?t=st=1739536098~exp=1739539698~hmac=878727680db2fc5c96b93f1f6e168d51d69250cbe0a50fd1c9739f6293699af1&w=1060');
+background-repeat: no-repeat;
+background-size: cover;}
+
+#parent1{width: 630px;
+height: 270px;
+margin: 50px auto;
+/* border: 1px solid green; */
+position: relative;
+backdrop-filter: blur(3px) brightness(110%) ;
+}
+.child1{width: 100px;
+height: 20px;
+position: absolute;
+text-align: center;
+left: 261px;
+top: 43px;
+font-size: 26px;}
+#bold{font-weight: bold;}
+.child2{width: 615px;
+    height: 79px;
+    left: 9px;
+    top: 167px;
+    position: absolute;
+    color: blueviolet;
+text-align: center;}
+.child3{width: 629px;
+    height: 20px;
+    position: absolute;
+font-size: 28px;
+top: 67px;
+text-align: center;}
+.child4{width: 630px;
+height: 270px;
+/* border: 1px solid blue; */
+position: absolute;
+top: 270px;
+left: -1px;
+background-color: white;}
+
+.xa{width: 198px;
+height: 28px;
+top: 283px;
+left: 215px;
+/* border: 1px solid black; */
+position: absolute;
+text-align: center;
+font-size: 23px;
+color: gray;}
+.xx{width: 427px;
+    height: 46px;
+    top: 328px;
+    left: 111px;
+    /* border: 1px solid black; */
+    position: absolute;
+text-align: center;
+}
+input[type=text]{width: 401px;
+height: 37px;
+border-radius: 10px;
+padding-left: 10px;
+font-size: 20px;
+word-spacing: 2px;}
+
+.xc{width: 427px;
+    height: 46px;
+    top: 378px;
+    left: 111px;
+    /* border: 1px solid black; */
+    position: absolute;
+text-align: center;
+}
+input[type=password]{width: 401px;
+height: 37px;
+border-radius: 10px;
+padding-left: 10px;
+font-size: 20px;
+word-spacing: 2px;}
+
+
+.xq{width: 484px;
+height: 30px;
+top: 434px;
+left: 133px;
+position: absolute;
+border: 1px solid white;}
+#aa{font-size: 20px;
+color: gray;}
+#ab{margin-left: 70px;
+    color: gray;
+font-size: 20px;}
+
+.xz{width: 99px;
+    height: 24px;
+    top: 474px;
+    left: 269px;
+    position: absolute;
+    border: 1px solid rgb(48, 119, 241);
+font-size: 21px;
+text-align: center;
+font-weight: bold;
+box-shadow: 2px 2px rgb(241, 66, 241);
+background-color: rgb(48, 119, 241);
+}
+

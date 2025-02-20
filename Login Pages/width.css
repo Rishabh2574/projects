@@ -1,0 +1,123 @@
+#parent{
+    /* border: 1px solid black; */
+    width: 1687px;
+    height: 529px;
+    position: relative;
+    right: 8px;
+    top: -8px;
+    background-image: url('../81f3ff974d82520780078ba1cfbd453a1583259680.png');
+    background-repeat: no-repeat;
+    background-size: cover;}
+    #child1{position: absolute;
+        top: 13px;
+        left: 178px;
+        width: 1348px;
+        /* border: 1px solid black; */
+    }
+    ul{list-style: none;}
+    li{display: inline;
+    /* border: 1px solid red; */
+    }
+    #q1{margin-left: 1px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    }
+    #w1{margin-left: 625px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 21px;}
+    #w2{margin-left: 25px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 21px;}
+    #w3{margin-left: 20px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 21px;}
+    #w4{margin-left: 26px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 21px;}
+        #child2{font-family: "Lobster", serif;
+            font-weight: 400;
+            font-style: normal;
+            color: white;
+            position: absolute;
+            top: 94px;
+            letter-spacing: 10px;
+            left: 640px;
+            font-size: 114px;
+            /* border: 1px solid white */
+        }
+     #child3{font-family: "Lobster", serif;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        position: absolute;
+        top: 228px;
+        letter-spacing: 10px;
+        left: 398px;
+        font-size: 26px;
+        /* border: 1px solid white; */
+    }
+#parent2{width: 1687px;
+    height: 2000px;
+    border: 1px solid black;
+    position: relative;
+    top: -9px;
+    left: -9px;}
+   #a1{width: 620px;
+    background-size: cover;
+    border-radius: 12px;
+    position: absolute;
+    background-position-y: center;
+    left: 256px;
+    top: 46px;
+    height: 270px;
+    border: 1px solid black;
+    background-image: url(../chole.jpeg);}
+    
+    #div2{width: 620px;
+        border-radius: 12px;
+        position: absolute;
+        border-top-left-radius: initial;
+        border-top-right-radius: initial;
+        left: 256px;
+        top: 226px;
+        background-color: white;
+        height: 90px;
+        border: 1px solid green;}
+        .r{font-size: 37px;
+            line-height: 57px;
+            margin-left: 37px;}
+        .rr{font-size: 21px;
+            line-height: 2px;
+            margin-left: 38px;
+            color: darkslategray;}
+.small{font-family: "Montserrat Alternates", serif;
+font-weight: 300;
+font-size: 36px;
+font-style: normal;}
+.big{font-size: 43px;
+letter-spacing: 4px;}
+ #popular{width: 913px;
+            border-radius: 12px;
+            position: absolute;
+            left: 255px;
+            top: 403px;
+            word-spacing: 3px;
+            height: 90px;
+            border: 1px solid pink;}
+#far{width: 620px;
+    border-radius: 12px;
+    position: absolute;
+    left: 256px;
+    top: 547px;
+    height: 90px;
+    border: 1px solid purple}
+#pink{width: 1685px;
+    position: absolute;
+    top: 500px;
+    border: 1px solid blue;
+}

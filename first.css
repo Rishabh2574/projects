@@ -1,0 +1,16 @@
+h3{background-color: aqua;
+    color: blue;
+    text-align: center;
+
+}
+
+/* universal */
+*{background-color: blueviolet;}
+/* class */
+.name{background-color: aqua; text-align: center; color: blue;}
+.name:hover{background-color: brown;}
+
+/* id */
+#name{
+    background-color: aqua; color: blue; text-align: center;
+}

@@ -1,0 +1,26 @@
+body{background-image: url('https://images.unsplash.com/photo-1617957796155-72d8717ac882?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z3JlZW4lMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D');
+background-repeat: no-repeat;
+background-size: cover;}
+#parent{width: 407px;
+height: 260px;
+margin: 150px auto;
+border: 2px solid red;
+background-image: url('https://img.freepik.com/premium-photo/abstract-background-design-hd-light-immortelle-yellow-color_851755-51470.jpg');
+}
+input[type=text]{margin: 27px;
+margin-left: 79px;
+width: 255px;
+height: 40px;}
+input[type=password]{margin-left: 79px;
+    width: 255px;
+    height: 40px;
+margin-top: -14px;}
+#xc{margin-top: 10px;
+    background-color: white;
+text-align: center;
+width: 261px;
+height: 40px;
+margin-left: 79px;
+}
+#qq{padding-top: 9px;}
+#dd{padding-left: 102px;}

@@ -1,0 +1,48 @@
+body{background-image: url('https://preview.redd.it/kurzgesagt-4k-wallpapers-3840x2160-v0-thrpw4zmouhb1.png?width=3840&format=png&auto=webp&s=b1dfb23b2606ba97b175f60c77bfc8a9eb13f4f8');
+background-repeat: no-repeat;
+background-size: cover;}
+#parent{width: 400px;
+    backdrop-filter: blur(5px) brightness(110%);
+height: 330px;
+border: 2px solid red;
+border-radius: 12px;
+margin: 150px auto;}
+h1{text-align: center;}
+input[type=text]{width: 195px;
+height: 27px;
+padding-left:14px ;
+margin: 5px;
+border-radius: 12px;
+margin-left: 88px;}
+input[type=password]{width:195px ;
+    height:27px ;
+    padding-left:14px ;
+    margin:5px ;
+    border-radius: 12px;
+margin-left: 88px;}
+.fa-solid{margin-left: -30px;}
+#x1{color: beige;
+    display: inline-block;
+padding-left: -4xpx;}
+#x2{color: beige;
+    margin-top: 10px;
+    display: inline-block;
+padding-left: 14px;
+margin-top: 10px;}
+input[type=checkbox]{display: inline-block;
+margin-left: 85px;
+margin-top: 10px;}
+#rr{border: 2px solid white;
+border-radius: 12px;
+width: 157px;
+height: 30px;
+background-color: white;
+margin: 13px;
+margin-left: 113px;
+}
+#rt{text-align: Center;
+    font-weight: bold;
+margin-top: 6px;}
+#ri{color: beige;
+margin-left: 89px;
+margin-top: 16px;}
